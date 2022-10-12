@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         tvRedirectSignUp.setOnClickListener {
-            val intent = Intent(this, UserRegister::class.java)
+            val intent = Intent(this, DLogin::class.java)
             startActivity(intent)
             // using finish() to end the activity
             finish()
@@ -49,6 +49,10 @@ class MainActivity : AppCompatActivity() {
             auth.signInWithEmailAndPassword(email, pass).addOnCompleteListener(this) {
                 if (it.isSuccessful) {
                     Toast.makeText(this, "Successfully LoggedIn", Toast.LENGTH_SHORT).show()
+                    val intent = Intent(this,DLogin::class.java)
+                    startActivity(intent)
+                    // using finish() to end the activity
+                    finish()
                 } else
                     Toast.makeText(this, "Log In failed ", Toast.LENGTH_SHORT).show()
             }

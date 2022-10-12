@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/SLIIT/SE/2 YEAR/2 SEM/MAD/SchoolRide Project/SchoolRide/app/src/main/res/layout/activity_driver_login.xml" value="0.19939577039274925" />
+        <entry key="..\:/SLIIT/SE/2 YEAR/2 SEM/MAD/SchoolRide Project/SchoolRide/app/src/main/res/layout/activity_driveruserlogin.xml" value="0.14826498422712933" />
+        <entry key="..\:/SLIIT/SE/2 YEAR/2 SEM/MAD/SchoolRide Project/SchoolRide/app/src/main/res/layout/activity_dslogin.xml" value="0.358695652173913" />
+        <entry key="..\:/SLIIT/SE/2 YEAR/2 SEM/MAD/SchoolRide Project/SchoolRide/app/src/main/res/layout/activity_home.xml" value="0.358695652173913" />
         <entry key="..\:/SLIIT/SE/2 YEAR/2 SEM/MAD/SchoolRide Project/SchoolRide/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
-        <entry key="..\:/SLIIT/SE/2 YEAR/2 SEM/MAD/SchoolRide Project/SchoolRide/app/src/main/res/layout/activity_user_register.xml" value="0.358695652173913" />
+        <entry key="..\:/SLIIT/SE/2 YEAR/2 SEM/MAD/SchoolRide Project/SchoolRide/app/src/main/res/layout/activity_student_login.xml" value="0.35833333333333334" />
+        <entry key="..\:/SLIIT/SE/2 YEAR/2 SEM/MAD/SchoolRide Project/SchoolRide/app/src/main/res/layout/activity_user_register.xml" value="0.12737127371273713" />
         <entry key="..\:/SLIIT/SE/2 YEAR/2 SEM/MAD/SchoolRide Project/app/src/main/res/layout/activity_home.xml" value="0.33" />
         <entry key="..\:/SLIIT/SE/2 YEAR/2 SEM/MAD/SchoolRide Project/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/SLIIT/SE/2 YEAR/2 SEM/MAD/SchoolRide Project/app/src/main/res/layout/activity_user_register.xml" value="0.2" />

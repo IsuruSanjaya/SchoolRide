@@ -7,4 +7,6 @@
     <string name="don_t_have_an_account_sign_in">Don\'t have an account sign in</string>
     <string name="already_have_an_account_login">Already have an account</string>
     <string name="signed">signIn</string>
+    <string name="welcome">Welcome</string>
+    <string name="school_ride">School Ride</string>
 </resources>

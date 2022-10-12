@@ -14,11 +14,21 @@
         android:theme="@style/Theme.SchoolRide"
         tools:targetApi="31">
         <activity
-            android:name=".UserRegister"
+            android:name=".DriverU"
             android:exported="false" />
         <activity
-            android:name=".Home"
+            android:name=".StudentLogin"
             android:exported="false" />
+        <activity
+            android:name=".DriverLogin"
+            android:exported="false" />
+        <activity
+            android:name=".DLogin"
+            android:exported="false" />
+        <activity
+            android:name=".UserRegister"
+            android:exported="false" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
